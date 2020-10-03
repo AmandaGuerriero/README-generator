@@ -60,7 +60,7 @@ inquirer
     .then((response) => {
 
     // function to write README file
-    fs.appendFileSync('README.md', ('#' + response.title) + '\n', function(err) {
+    fs.appendFileSync('README.md', ('# ' + response.project) + '\n', function(err) {
         if (err) {
             console.log(err);
         } else {
