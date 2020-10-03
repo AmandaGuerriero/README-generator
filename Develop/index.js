@@ -37,7 +37,7 @@ const questions = [
         message: 'Credits'
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'Which license would you like to use?',
         choices: ["MIT", "Apache", "ISC", "GNU"]
@@ -57,11 +57,17 @@ const questions = [
 // function to prompt Questions
 inquirer
     .prompt(questions)
+    .then((response) => {
 
-// function to write README file
-// function writeToFile(fileName, data) {
-
-// }
+    // function to write README file
+    fs.appendFileSync('README.md', "File created", function(err) {
+        if (err) {
+            console.log(err);
+        } else {
+            console.log("Success")
+        }
+    })
+})
 
 // function to initialize program
 function init() {
