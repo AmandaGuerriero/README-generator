@@ -6,11 +6,6 @@ function errorBadge(license) {
   return ' ';
 }
 
-// // Add Name information
-// function addName(fullName)
-//   if (name !== '') {
-//     return name
-//   }
 // Add license information
 function licenseInfo(license, fullName) {
   if (license === 'MIT') {

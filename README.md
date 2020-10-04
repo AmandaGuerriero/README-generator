@@ -1,4 +1,4 @@
-# Amdnada
+# Amadna
 
 [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://google.com)
 
@@ -15,22 +15,22 @@ fda
 * [Questions](#questions)
 
 ## Install
-das
+sda
 
 ## Usage
-dsa
+dsfa
 
 ## Credits
-ds
+sda
 
 ## Contributions
-People
+fda
 
 ## Tests
-npm test
+ds
 
 ## License Info
-Copyright (c) 2020 Amanda Guerrieo
+Copyright (c) 2020 as
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -53,7 +53,7 @@ Copyright (c) 2020 Amanda Guerrieo
 # Questions?
 
 ## Github Profile
-[https://github.com/fdsa](https://github.com/fdsa)
+[https://github.com/afda](https://github.com/afda)
 
 ## Email
-[dsa](mailto:dsa)
+[sa](mailto:sa)
