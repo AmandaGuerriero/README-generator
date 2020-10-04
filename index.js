@@ -25,18 +25,18 @@ const questions = [
     {
         type: 'input',
         name: 'install',
-        message: 'Installation Details',
+        message: 'Provide the installation details',
         default: 'npm install'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Usage Details'
+        message: 'Provide the usage details'
     },
     {
         type: 'input',
         name: 'credit',
-        message: 'Credits'
+        message: 'Which credits would you like to include?'
     },
     {
         type: 'list',
@@ -47,7 +47,7 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'Who contributed to the project?'
+        message: 'How would someone contribute to this project?'
     },
     {
         type: 'input',
