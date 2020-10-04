@@ -42,7 +42,15 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Which license would you like to use?',
-        choices: ["MIT", "Apache", "ISC", "GNU", "None"]
+        choices: ["MIT", "Apache", "ISC", "GNU", "None"],
+        validate: choiceInput => {
+            if (choiceInput) {
+              return true;
+            } else {
+              console.log('Licencse not entered!');
+              return false;
+            }
+          }
     },
     {
         type: 'input',

@@ -1,9 +1,9 @@
-# Amanda Project
+# Amanda
 
-[![Github license](https://img.shields.io/badge/license-ISC-blue.svg)](https://google.com)
+ 
 
 ## Description
-Description of this here project
+Descritpions
 
 ## Table of Contents
 * [Installation Details](#install)
@@ -18,24 +18,24 @@ Description of this here project
 npm install
 
 ## Usage
-Use with Care
+
 
 ## Credits
-Me
+
 
 ## Contributions
-You
+fsda
 
 ## Tests
-npm test
+dsa
 
 ## License
-ISC
+None
 
 # Questions?
 
 ## Github Profile
-[https://github.com/amandaguerriero](https://github.com/amandaguerriero)
+[https://github.com/fsa](https://github.com/fsa)
 
 ## Email
-[amandaguerriero@yahoo.com](mailto:amandaguerriero@yahoo.com)
+[fsa](mailto:fsa)

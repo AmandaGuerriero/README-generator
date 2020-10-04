@@ -1,8 +1,16 @@
+// Error Handling for Badge
+function errorBadge(license) {
+  if (license !== 'None') {
+    return `[![Github license](https://img.shields.io/badge/license-${license}-blue.svg)](https://google.com)`
+  }
+  return ' ';
+}
+
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.project}
 
-[![Github license](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://google.com)
+${errorBadge(data.license)}
 
 ## Description
 ${data.description}
