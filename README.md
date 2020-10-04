@@ -1,29 +1,41 @@
 # Amanda Project
 
-[![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://google.com)
+[![Github license](https://img.shields.io/badge/license-ISC-blue.svg)](https://google.com)
 
-# Description
-fsfdsa
+## Description
+Description of this here project
 
-# Table of Contents
+## Table of Contents
 * [Installation Details](#install)
 * [Usage Details](#usage)
 * [Credits](#credits)
 * [Contributions](#contributions)
+* [License](#license)
 * [Tests](#tests)
+* [Questions](#questions)
 
-# Install
-fdas
+## Install
+npm install
 
-# Usage
-fdsa
+## Usage
+Use with Care
 
-# Credits
-fdsa
+## Credits
+Me
 
-# Contributions
-a
+## Contributions
+You
 
-# Tests
-fsd
+## Tests
+npm test
 
+## License
+ISC
+
+# Questions?
+
+## Github Profile
+[https://github.com/amandaguerriero](https://github.com/amandaguerriero)
+
+## Email
+[amandaguerriero@yahoo.com](mailto:amandaguerriero@yahoo.com)

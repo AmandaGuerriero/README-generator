@@ -12,8 +12,9 @@ ${data.description}
 * [Usage Details](#usage)
 * [Credits](#credits)
 * [Contributions](#contributions)
-* [Tests](#tests)
 * [License](#license)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Install
 ${data.install}
@@ -30,12 +31,19 @@ ${data.contribution}
 ## Tests
 ${data.test}
 
-## Tests
+## License
 ${data.license}
 
-## Questions
+# Questions?
 
+## Github Profile
+[https://github.com/${data.github}](https://github.com/${data.github})
+
+## Email
+[${data.email}](mailto:${data.email})
 `;
 }
+
+// Need to add license information
 
 module.exports = generateMarkdown;
