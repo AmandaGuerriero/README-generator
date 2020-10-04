@@ -42,15 +42,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Which license would you like to use?',
-        choices: ["MIT", "Apache", "ISC", "GNU", "None"],
-        validate: choiceInput => {
-            if (choiceInput) {
-              return true;
-            } else {
-              console.log('Licencse not entered!');
-              return false;
-            }
-          }
+        choices: ["MIT", "Apache", "ISC", "GNU", "None"]
     },
     {
         type: 'input',
@@ -62,6 +54,11 @@ const questions = [
         name: 'test',
         message: 'What tests should be run?',
         default: 'npm test'
+    },
+    {
+        type: 'input',
+        name: 'fullName',
+        message: 'What is your full name?',
     },
     {
         type: 'input',
