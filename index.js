@@ -77,7 +77,7 @@ function init() {
     inquirer
     .prompt(questions)
     .then((response) =>  {
-        fs.writeFile('./README.md', generateMarkdown(response), (err) => {
+        fs.writeFile('./README-output.md', generateMarkdown(response), (err) => {
             if (err) {
                 return err;
             }

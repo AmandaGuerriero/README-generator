@@ -1,42 +1,36 @@
-# ReadMe Generator
+# Amanda guerriero
 
 [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://google.com)
 
 ## Description
-Creating a high-quality Readme is important for every project. Instead of spending time building it out, you can enter answers for a series of questions to generate it for you.
+Description
 
 ## Table of Contents
-* [Installation Details](#install)
+* [Installation Details](#installation)
 * [Usage Details](#usage)
 * [Credits](#credits)
-* [Contributions](#contributions)
+* [Contributions](#contributing)
 * [License](#license)
 * [Tests](#tests)
 * [Questions](#questions)
 
-## Install
-1. Clone this repo
-2. npm install
-3. npm install inquirer
+## Installation
+dafda
 
 ## Usage
-Invoke from the command line with
-> node index
-
-After answering the questions, view the output file: `README-output.md`
-
+dfas
 
 ## Credits
-My tutor, Maria Nevarez, and the wonderful Teaching Staff at UCLA
+das
 
 ## Contributing
-Issue a pull request to contribute to this project
+fdsa
 
 ## Tests
-> npm test
+fdas
 
 ## License Info
-Copyright (c) 2020 Amanda Guerriero
+Copyright (c) 2020 dsfa
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -59,7 +53,7 @@ Copyright (c) 2020 Amanda Guerriero
 # Questions?
 
 ## Github Profile
-[https://github.com/amandaguerriero](https://github.com/amandaguerriero)
+[https://github.com/fdsa](https://github.com/fdsa)
 
 ## Email
-[amandaguerriero@yahoo.com](mailto:amandaguerriero@yahoo.com)
+[dsa](mailto:dsa)

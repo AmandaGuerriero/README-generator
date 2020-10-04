@@ -82,15 +82,15 @@ ${errorBadge(data.license)}
 ${data.description}
 
 ## Table of Contents
-* [Installation Details](#install)
+* [Installation Details](#installation)
 * [Usage Details](#usage)
 * [Credits](#credits)
-* [Contributions](#contributions)
-* [License](#license)
+* [How to Contribute](#contributing)
+* [License Information](#license)
 * [Tests](#tests)
 * [Questions](#questions)
 
-## Install
+## Installation
 ${data.install}
 
 ## Usage
@@ -99,7 +99,7 @@ ${data.usage}
 ## Credits
 ${data.credit}
 
-## Contributions
+## Contributing
 ${data.contribution}
 
 ## Tests
